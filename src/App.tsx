@@ -34,6 +34,9 @@ function Palindrome(): JSX.Element {
           )}
         </div>
       </div>
+      <div className="imagebox">
+        <img className="img1" src="img1.png" />
+      </div>
     </div>
   );
 }
